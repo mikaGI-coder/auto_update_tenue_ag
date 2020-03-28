@@ -1,0 +1,20 @@
+version: 3.0.1
+files:
+  - url: tenue-ag-WebSetup-3.0.1.exe
+    sha512: EvuA6qO0Y6o6Xv0x8o9nNriSfa4kOyvtwoTVnCL5JwR6KdVxZELUd/TFFciMtwGibEBWfcnHsZ7J1vNsJNf/Ew==
+path: tenue-ag-WebSetup-3.0.1.exe
+sha512: EvuA6qO0Y6o6Xv0x8o9nNriSfa4kOyvtwoTVnCL5JwR6KdVxZELUd/TFFciMtwGibEBWfcnHsZ7J1vNsJNf/Ew==
+packages:
+  x64:
+    size: 93816325
+    sha512: AuX+Yl2ucDuMTACzmATNmbn06CGYatWP5dSTvhuOXYnTLh6C46dKX0Zv0Iujg844UEm2Yt/kzJGhqyHZtciEMw==
+    blockMapSize: 97964
+    path: tenue-ag-3.0.1-x64.nsis.7z
+    file: tenue-ag-3.0.1-x64.nsis.7z
+  ia32:
+    size: 91878482
+    sha512: m1TYUAdW7EoWQIsBrkHwz1uNNsdzU6ODiAhpXjKc9kUx4IxwtRYwdOeKkr+EMtZtiVR9uEtFxT5n4xARzOmOfw==
+    blockMapSize: 95707
+    path: tenue-ag-3.0.1-ia32.nsis.7z
+    file: tenue-ag-3.0.1-ia32.nsis.7z
+releaseDate: '2020-02-13T16:02:01.950Z'
